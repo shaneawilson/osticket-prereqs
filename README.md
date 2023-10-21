@@ -25,26 +25,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+<![image](https://github.com/shaneawilson/osticket-prereqs/assets/148294831/6077be9d-70a8-41e6-8c7d-2c09afb562e1)
+
+
+We are about to install the osTicketing System
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
-</p>
-<br />
+![image](https://github.com/shaneawilson/osticket-prereqs/assets/148294831/5822717a-981c-4687-b39a-9d7fa1b304c9)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>OsTicketing System now installed. Setting up admin account to be able to create and run tickets.
+</p>
+
+![image](https://github.com/shaneawilson/osticket-prereqs/assets/148294831/7252c6d3-d22c-4eb7-aa4b-6ca804263162)
+
+
 </p>
 <p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+Admin account now active. We can create a team of IT professsionals, as well as, customer tickets. Set severity levels, assign to specific departments, and troubleshoot any customer issues.
 </p>
 <br />

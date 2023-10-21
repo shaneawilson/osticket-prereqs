@@ -17,13 +17,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
+- Install OsTicket
+- Set up Admin account
+- Create Departments, Team Members, and Users
 
-<h2>Installation Steps</h2>
+- <h2>Installation Steps</h2>
 
 <![image](https://github.com/shaneawilson/osticket-prereqs/assets/148294831/6077be9d-70a8-41e6-8c7d-2c09afb562e1)
 

@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <![image](https://github.com/shaneawilson/osticket-prereqs/assets/148294831/6077be9d-70a8-41e6-8c7d-2c09afb562e1)
 
 
-We are about to install the osTicketing System
+We are about to install the osTicketing System. This ticketing system will give us the ability to effectively lead a team of help desk professionals and troubleshoot customer problems.
 </p>
 <br />
 
@@ -34,7 +34,7 @@ We are about to install the osTicketing System
 
 
 </p>
-<p>OsTicketing System now installed. Setting up admin account to be able to create and run tickets.
+<p>OsTicketing System now installed. Setting up admin account to be able to create and run tickets. When the admin account is fully operable we will have the ability to assemble teams, assign individuals to specfic departments with certain accessibility levels, and assign any incoming tickets to the proper department.
 </p>
 
 ![image](https://github.com/shaneawilson/osticket-prereqs/assets/148294831/7252c6d3-d22c-4eb7-aa4b-6ca804263162)
@@ -42,6 +42,6 @@ We are about to install the osTicketing System
 
 </p>
 <p>
-Admin account now active. We can create a team of IT professsionals, as well as, customer tickets. Set severity levels, assign to specific departments, and troubleshoot any customer issues.
+Admin account now active. We can create a team of IT professsionals, as well as, customer tickets. Set severity levels, assign tickets to specific departments, and troubleshoot any customer issues.
 </p>
 <br />
